@@ -1,1 +1,1 @@
-# Bosta---Assessment
+To run the application locally, begin by installing the dependencies using `npm install`. Once installed, you can run the following command `npm run dev` to run the project.

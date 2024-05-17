@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Cairo";
+}
+
+
+
+table {
+  border: 1px solid rgb(211, 211, 211);
+  border-collapse: collapse;
+  text-align: right;
+  border-radius: 15px;
+  font-family: "Cairo";
+}
+
+table th {
+  background-color: rgb(218, 217, 217, 0.3);
+}
+
+table th,
+table td {
+  padding: 12px 12px;
+  border-bottom: 1px solid rgb(211, 211, 211);
+}
+
+.ant-steps{
+  font-family: 'Cairo';
+}
